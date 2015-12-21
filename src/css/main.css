@@ -88,6 +88,198 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   *
+   * {
+   * font-family: Arial, Helvetica, sans-serif;
+   * }
+   * .clear
+   * {
+   * clear: both;
+   * }
+   * .float_left
+   * {
+   * float: left;
+   * }
+   * .image_border
+   * {
+   * border-style: solid;
+   * border-color: white;
+   * }
+   * .call_action
+   * {
+   * background-color: #1b3c1c;
+   * width: 200px;
+   * height: 70px;
+   * text-align: center;
+   * color: white;
+   * }
+   * .float_right
+   * {
+   * float: right;
+   * }
+   * .desc
+   * {
+   * position: relative;
+   * width: 300px;
+   * height: 400px;
+   * margin: 50px;
+   * top: 40px;
+   * left: 45px;
+   * }
+   * .desc h1
+   * {
+   * color: #1b3c1c;
+   * }
+   * a
+   * {
+   * text-decoration: none;
+   * color: white;
+   * }
+   * #wrapper
+   * {
+   * width: 1200px;
+   * height: 2640px;
+   * margin-left: auto;
+   * margin-right: auto;
+   * }
+   * #menu_items
+   * {
+   * list-style: none;
+   * float: right;
+   * line-height: 90px;	
+   * padding: 0px 40px;
+   * }
+   * #menu_items li 
+   * {
+   * display: inline; 	
+   * margin: 15px;
+   * font-size: 16pt;
+   * color: white;
+   * }
+   * #menu_items a
+   * {
+   * text-decoration: none;
+   * color: white;
+   * }
+   * #menu
+   * {
+   * margin-left: auto;
+   * margin-right: auto;
+   * height: 120px;
+   * width: 1200px;
+   * background-color: #1b3c1c;
+   * border-bottom-style: solid; 
+   * border-width: thick;
+   * }
+   * #logo
+   * {
+   * position: relative;
+   * left: 100px;
+   * top: 20px;
+   * }
+   * #main_img
+   * {
+   * position: relative;
+   * left: 100px;
+   * bottom: 180px;
+   * }
+   * #hero_txt1
+   * {
+   * font-size:23pt;
+   * position: relative;
+   * bottom: 200px;
+   * right: 120px;
+   * font-style: italic;
+   * }
+   * #hero_txt1 h2
+   * {
+   * font-size: 28pt;
+   * color: white;
+   * }
+   * #body1
+   * {
+   * height: 700;
+   * background-color: #b2c4b2;
+   * }
+   * #body1_bottom
+   * {
+   * position: relative;
+   * bottom: 170px;
+   * left: 150px;
+   * color: white;
+   * }
+   * #body1_bottom1
+   * {
+   * font-size: 20pt;
+   * padding-right: 50px;
+   * }
+   * #body1_bottom2
+   * {
+   * font-size: 26pt;
+   * padding-right: 50px;
+   * position: relative;
+   * bottom: 15px;
+   * }
+   * #body2
+   * {
+   * position: relative;
+   * bottom: 140px;
+   * height: 400px;
+   * background-color: #e8d9c5;
+   * }
+   * #body2_images
+   * {
+   * position: relative;
+   * top: 50px;
+   * left:75px;		
+   * }
+   * #body2 h2
+   * {
+   * position: relative;
+   * left: 100px;
+   * top: 50px;
+   * color: #1b3c1c;
+   * font-size: 26pt;
+   * }
+   * #body2_images img
+   * {
+   * margin: 15px;
+   * }
+   * #body3
+   * {
+   * height: 150px;
+   * background-color: white;
+   * text-align: center;		
+   * }
+   * #call_action2 
+   * {
+   * position: relative; 
+   * left: 500px;
+   * }
+   * #footer
+   * {
+   * background-color: #e8d9c5;	
+   * height: 900px;
+   * }
+   * #movebod3
+   * {
+   * position: relative;
+   * bottom: 80px;
+   * }
+   * #movebod3 h1
+   * {
+   * font-style: italic; 
+   * color: #1b3c1c;
+   * }
+   * #copyrights
+   * {
+   * position: relative;
+   * left: 420px;
+   * top: 300px;
+   * }
+   *
+   *
+   *
 
 
 
